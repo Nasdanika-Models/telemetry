@@ -67,4 +67,9 @@
 /home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/impl/SummaryDataPointValueAtQuantileImpl.java
 /home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/impl/SummaryImpl.java
 /home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/impl/TelemetryFactoryImpl.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/impl/TelemetryPackageImpl.java
 /home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/impl/TracesDataImpl.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/util/TelemetryAdapterFactory.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/util/TelemetryEPackageResourceSetCapabilityFactory.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/util/TelemetrySwitch.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/util/TelemetryValidator.java
