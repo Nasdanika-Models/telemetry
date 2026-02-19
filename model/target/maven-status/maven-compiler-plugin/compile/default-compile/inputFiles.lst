@@ -1,0 +1,5 @@
+/home/runner/work/telemetry/telemetry/model/src/main/java/module-info.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/AggregationTemporality.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/SeverityNumber.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/SpanKind.java
+/home/runner/work/telemetry/telemetry/model/src/main/java/org/nasdanika/models/telemetry/StatusCode.java
