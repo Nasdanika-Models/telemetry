@@ -2,2087 +2,2087 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
   <url>
     <loc>https://telemetry.models.nasdanika.org/circular-layout-graph-with-dependencies-and-subpackages.html</loc>
-    <lastmod>2026-02-23T21:57:02.049-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.868-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:02.032-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.850-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/classifiers.html</loc>
-    <lastmod>2026-02-23T21:57:02.007-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.825-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/default-graph-with-dependencies-and-subpackages.html</loc>
-    <lastmod>2026-02-23T21:57:02.046-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.865-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:02.028-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.847-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/diagram.html</loc>
-    <lastmod>2026-02-23T21:57:02.025-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.844-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph-3d-detailed.html</loc>
-    <lastmod>2026-02-23T21:57:02.042-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.862-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph-3d-with-dependencies-and-subpackages-detailed.html</loc>
-    <lastmod>2026-02-23T21:57:02.060-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.880-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph-3d-with-dependencies-and-subpackages.html</loc>
-    <lastmod>2026-02-23T21:57:02.056-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.877-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:02.038-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.858-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph-with-dependencies-and-subpackages.html</loc>
-    <lastmod>2026-02-23T21:57:02.052-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.872-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:02.035-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.854-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.695-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.492-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AggregationTemporality/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.699-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.497-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AggregationTemporality/references/eLiterals/AGGREGATION_TEMPORALITY_CUMULATIVE/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.713-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.511-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AggregationTemporality/references/eLiterals/AGGREGATION_TEMPORALITY_DELTA/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.707-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.506-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AggregationTemporality/references/eLiterals/AGGREGATION_TEMPORALITY_UNSPECIFIED/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.704-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.502-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.720-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.520-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.756-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.560-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.752-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.556-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.762-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.566-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.759-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.563-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.717-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.516-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.764-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.569-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/arrayValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.742-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.545-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/boolValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.725-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.525-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/bytesValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.729-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.529-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/doubleValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.733-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.533-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/intValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.736-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.537-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/kvlistValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.746-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.549-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references/eStructuralFeatures/stringValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.739-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.541-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/AnyValue/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.749-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.553-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.772-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.579-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.801-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.608-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.798-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.605-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.807-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.614-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.804-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.611-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.769-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.575-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.809-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.618-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/asDouble/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.776-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.584-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/asInt/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.779-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.586-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/filteredAttributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.792-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.599-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/spanId/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.781-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.590-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.784-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.593-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references/eStructuralFeatures/traceId/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.789-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.596-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Exemplar/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.795-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.602-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.817-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.625-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.835-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.644-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.832-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.641-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.840-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.650-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.837-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.647-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.813-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.622-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:00.829-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.638-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.843-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.653-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/references/eStructuralFeatures/aggregationTemporality/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.821-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.629-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/references/eStructuralFeatures/dataPoints/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.824-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.632-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogram/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.826-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.635-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.851-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.661-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.905-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.715-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.902-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.712-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.911-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.720-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.908-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.718-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.848-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.658-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.914-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.725-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.887-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.696-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/count/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.855-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.665-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/exemplars/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.890-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.699-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.859-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.668-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/max/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.862-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.671-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/min/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.864-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.674-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/negative/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.893-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.702-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/positive/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.896-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.706-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/scale/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.867-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.677-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/startTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.871-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.680-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/sum/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.874-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.683-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.877-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.687-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/zeroCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.880-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.689-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/zeroThreshold/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.883-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.693-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPoint/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.899-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.709-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.921-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.732-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.934-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.745-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.931-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.742-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.940-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.750-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.937-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.748-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.918-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.729-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.943-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.753-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/references/eStructuralFeatures/bucketCounts/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.925-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.736-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ExponentialHistogramDataPointBuckets/references/eStructuralFeatures/offset/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.929-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.739-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.957-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.767-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.965-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.775-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.963-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.772-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:00.971-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.781-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.968-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.778-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.947-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.757-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:00.960-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.769-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:00.974-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.785-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/references/eStructuralFeatures/dataPoints/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.953-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.764-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Gauge/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.949-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.760-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:00.981-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.792-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.810-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:00.998-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.808-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.006-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.816-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.003-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.813-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.978-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.788-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:00.994-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.805-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.009-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.820-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/references/eStructuralFeatures/aggregationTemporality/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.985-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.796-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/references/eStructuralFeatures/dataPoints/index.html</loc>
-    <lastmod>2026-02-23T21:57:00.988-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.799-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Histogram/references.html</loc>
-    <lastmod>2026-02-23T21:57:00.991-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.802-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.016-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.827-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.061-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.873-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.058-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.870-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.067-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.879-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.064-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.876-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.014-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.824-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.070-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.881-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.049-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.861-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/bucketCounts/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.022-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.832-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/count/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.025-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.835-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/exemplars/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.052-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.864-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/explicitBounds/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.027-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.839-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.031-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.842-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/max/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.033-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.845-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/min/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.037-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.848-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/startTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.040-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.851-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/sum/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.043-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.855-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.046-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.858-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/HistogramDataPoint/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.055-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.867-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.077-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.889-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.109-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.914-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.106-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.911-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.115-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.920-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.112-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.917-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.074-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.886-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.118-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.922-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.101-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.906-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.083-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.893-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/name/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.087-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.896-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.090-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.899-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/version/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.098-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.902-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/InstrumentationScope/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.103-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.908-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.131-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.937-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.147-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.953-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.145-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.950-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.153-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.959-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.150-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.956-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.129-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.934-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.156-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.961-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/references/eStructuralFeatures/key/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.135-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.941-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/references/eStructuralFeatures/value/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.138-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.944-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/KeyValue/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.142-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.947-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.164-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.969-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.205-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.011-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.202-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.008-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.210-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.018-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.207-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.014-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.161-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.966-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.213-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.021-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.193-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.999-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/body/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.196-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.002-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.168-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.973-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.171-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.977-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/observedTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.175-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.980-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/severityNumber/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.177-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.983-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/severityText/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.180-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.986-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/spanId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.183-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.989-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.186-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.992-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references/eStructuralFeatures/traceId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.189-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:05.996-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogRecord/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.199-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.005-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.230-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.037-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.227-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.034-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.235-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.043-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.232-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.040-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.217-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.024-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.238-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.046-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/references/eStructuralFeatures/resourceLogs/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.224-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.031-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/LogsData/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.220-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.027-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.247-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.054-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.270-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.081-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.268-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.079-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.276-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.088-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.274-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.085-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.243-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.051-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:01.265-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.076-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/references/eStructuralFeatures/description/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.250-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.059-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/references/eStructuralFeatures/metadata/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.259-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.068-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/references/eStructuralFeatures/name/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.253-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.062-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/references/eStructuralFeatures/unit/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.256-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.065-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Metric/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.263-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.073-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.294-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.104-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.291-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.102-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.299-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.111-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.296-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.107-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.280-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.092-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.302-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.114-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/references/eStructuralFeatures/resourceMetrics/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.288-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.099-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/MetricsData/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.282-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.094-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.309-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.121-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.341-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.152-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.338-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.149-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.347-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.158-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.344-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.155-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.306-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.118-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.349-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.161-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/asDouble/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.314-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.125-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/asInt/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.316-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.128-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.330-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.141-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/exemplars/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.333-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.144-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.319-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.131-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/startTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.322-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.134-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.326-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.138-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/NumberDataPoint/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.335-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.147-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.356-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.168-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.375-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.187-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.373-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.184-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.381-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.192-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.378-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.189-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.354-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.165-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.384-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.195-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.366-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.178-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.360-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.172-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.363-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.175-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Resource/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.370-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.182-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.390-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.202-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.408-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.221-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.406-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.218-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.414-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.227-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.411-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.224-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.388-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.199-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.417-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.230-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/references/eStructuralFeatures/resource/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.398-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.209-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.395-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.206-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/references/eStructuralFeatures/scopeLogs/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.400-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.212-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceLogs/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.403-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.215-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.423-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.237-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.443-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.256-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.440-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.253-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.448-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.263-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.445-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.259-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.421-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.234-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.451-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.265-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/references/eStructuralFeatures/resource/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.431-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.244-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.429-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.241-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/references/eStructuralFeatures/scopeMetrics/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.434-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.247-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceMetrics/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.437-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.250-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.458-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.272-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.477-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.292-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.474-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.288-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.482-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.298-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.479-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.295-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.455-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.269-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.484-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.301-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/references/eStructuralFeatures/resource/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.465-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.280-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.462-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.277-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/references/eStructuralFeatures/scopeSpans/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.468-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.283-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ResourceSpans/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.470-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.285-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.492-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.309-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.511-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.327-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.509-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.324-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.517-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.333-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.514-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.330-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.489-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.306-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.520-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.336-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/references/eStructuralFeatures/logRecords/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.500-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.316-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.497-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.313-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/references/eStructuralFeatures/scope/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.503-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.318-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeLogs/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.506-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.321-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.529-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.344-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.547-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.362-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.544-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.359-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.553-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.368-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.550-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.365-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.525-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.341-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.556-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.371-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/references/eStructuralFeatures/metrics/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.535-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.350-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.532-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.348-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/references/eStructuralFeatures/scope/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.538-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.353-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeMetrics/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.541-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.356-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.563-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.379-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.582-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.398-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.579-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.395-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.588-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.403-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.585-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.400-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.560-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.376-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.591-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.407-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/references/eStructuralFeatures/schemaUrl/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.567-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.383-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/references/eStructuralFeatures/scope/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.570-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.385-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/references/eStructuralFeatures/spans/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.574-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.388-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/ScopeSpans/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.576-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.392-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SeverityNumber/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.595-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.410-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SeverityNumber/references/eLiterals/SEVERITY_NUMBER_UNSPECIFIED/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.598-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.414-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.608-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.423-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.672-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.486-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.669-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.483-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.677-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.491-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.674-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.489-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.605-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.421-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.680-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.495-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.649-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.464-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/changeDescription/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.653-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.468-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.611-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.427-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/droppedEventsCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.614-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.430-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/droppedLinksCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.618-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.433-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/endTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.621-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.436-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/events/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.656-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.471-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.624-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.439-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/kind/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.628-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.442-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/links/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.659-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.474-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/name/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.630-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.445-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/parentSpanId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.633-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.448-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/spanId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.637-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.451-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/startTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.639-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.455-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/status/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.663-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.478-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/traceId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.642-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.458-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references/eStructuralFeatures/traceState/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.646-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.461-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Span/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.665-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.481-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.688-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.503-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.711-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.524-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.708-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.522-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.717-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.531-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.713-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.528-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.685-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.500-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.720-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.534-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.702-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.516-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.692-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.506-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/references/eStructuralFeatures/name/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.696-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.510-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.699-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.513-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanEvent/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.705-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.519-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.723-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.537-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_CLIENT/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.737-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.550-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_CONSUMER/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.743-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.557-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_INTERNAL/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.730-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.544-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_PRODUCER/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.740-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.553-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_SERVER/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.734-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.547-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanKind/references/eLiterals/SPAN_KIND_UNSPECIFIED/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.726-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.541-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.750-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.564-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.779-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.594-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.776-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.590-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.785-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.600-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.782-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.597-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.747-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.561-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.788-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.602-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.770-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.584-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/droppedAttributesCount/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.754-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.568-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.757-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.571-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/spanId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.760-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.575-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/traceId/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.763-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.577-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references/eStructuralFeatures/traceState/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.767-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.581-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanLink/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.773-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.587-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.795-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.610-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.809-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.623-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.806-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.621-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.814-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.629-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.812-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.626-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.793-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.607-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.817-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.632-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/references/eStructuralFeatures/code/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.800-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.614-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SpanStatus/references/eStructuralFeatures/message/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.803-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.617-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/StatusCode/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.820-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.636-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/StatusCode/references/eLiterals/STATUS_CODE_ERROR/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.831-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.646-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/StatusCode/references/eLiterals/STATUS_CODE_OK/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.828-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.643-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/StatusCode/references/eLiterals/STATUS_CODE_UNSET/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.824-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.640-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.838-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.653-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.861-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.676-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.858-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.673-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.866-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.682-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.863-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.679-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.836-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.651-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:01.855-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.670-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.869-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.685-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/references/eStructuralFeatures/aggregationTemporality/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.842-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.658-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/references/eStructuralFeatures/dataPoints/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.849-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.664-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/references/eStructuralFeatures/isMonotonic/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.845-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.661-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Sum/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.852-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.667-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.883-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.700-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.892-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.709-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.889-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.706-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.898-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.715-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.895-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.712-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.874-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.690-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/inheritance.html</loc>
-    <lastmod>2026-02-23T21:57:01.887-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.703-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.901-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.718-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/references/eStructuralFeatures/dataPoints/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.880-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.697-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/Summary/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.876-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.693-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.909-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.725-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.940-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.757-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.937-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.754-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.946-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.763-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.943-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.760-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.906-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.722-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.949-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.766-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/attributes/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.929-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.746-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/count/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.913-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.730-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/flags/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.916-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.733-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/quantileValues/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.932-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.749-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/startTimeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.918-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.736-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/sum/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.921-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.739-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/timeUnixNano/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.925-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.742-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPoint/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.934-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.751-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/attributes.html</loc>
-    <lastmod>2026-02-23T21:57:01.956-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.774-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.969-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.786-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.966-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.783-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:01.975-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.793-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.972-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.790-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.953-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.771-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:01.978-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.796-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/references/eStructuralFeatures/quantile/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.960-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.777-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/SummaryDataPointValueAtQuantile/references/eStructuralFeatures/value/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.964-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.780-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/circular-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.995-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.813-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/default-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.993-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.810-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/force-layout-graph-3d.html</loc>
-    <lastmod>2026-02-23T21:57:02-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.818-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/force-layout-graph.html</loc>
-    <lastmod>2026-02-23T21:57:01.997-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.816-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.983-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.800-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/load-specification.html</loc>
-    <lastmod>2026-02-23T21:57:02.003-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.821-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/references/eStructuralFeatures/resourceSpans/index.html</loc>
-    <lastmod>2026-02-23T21:57:01.990-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.807-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/references/eClassifiers/TracesData/references.html</loc>
-    <lastmod>2026-02-23T21:57:01.986-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.803-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://telemetry.models.nasdanika.org/search.html</loc>
-    <lastmod>2026-02-23T21:57:02.071-05:00</lastmod>
+    <lastmod>2026-02-24T07:36:06.890-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -7,6 +7,11 @@
         <mxCell id="huE8onhBtCyo_2wU4MsM-4" edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="huE8onhBtCyo_2wU4MsM-3" value="changeDescription">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Mleuht0W6pbYr7wvQeZ_-1" edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;" target="2fde2101-7fe8-42f1-bcfd-21aa95ca1711" value="logRecords">
+          <mxGeometry relative="1" x="-0.5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <object label="Span" link="references/eClassifiers/Span/index.html" id="b433ec2a-8396-450a-9032-0bfb33fc1266">
           <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
             <mxGeometry height="30" width="120" x="-90.00269805800053" y="460.00442114780435" as="geometry" />
@@ -145,6 +150,18 @@
             <mxGeometry relative="1" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="fmcmXTSgkqX3PViUDYN_-1" edge="1" parent="1" source="43a099d6-e03f-482f-8945-8d14c78a45dd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="b433ec2a-8396-450a-9032-0bfb33fc1266" value="span">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="785" />
+              <mxPoint x="820" y="750" />
+              <mxPoint x="430" y="750" />
+              <mxPoint x="430" y="520" />
+              <mxPoint x="80" y="520" />
+              <mxPoint x="80" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <object label="Exemplar" link="references/eClassifiers/Exemplar/index.html" id="43a099d6-e03f-482f-8945-8d14c78a45dd">
           <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
             <mxGeometry height="30" width="120" x="909.9976492954138" y="770.0009529626814" as="geometry" />
@@ -440,11 +457,11 @@
           </mxCell>
         </object>
         <object label="body" link="references/eClassifiers/LogRecord/references/eStructuralFeatures/body/index.html" id="3531308e-ce2e-4f30-9e8c-5d9bea545471">
-          <mxCell edge="1" parent="1" source="2fde2101-7fe8-42f1-bcfd-21aa95ca1711" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ececc06f-7653-44f3-b2cf-3aa284451d33">
+          <mxCell edge="1" parent="1" source="2fde2101-7fe8-42f1-bcfd-21aa95ca1711" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="ececc06f-7653-44f3-b2cf-3aa284451d33">
             <mxGeometry relative="1" x="-0.6795" as="geometry">
               <mxPoint as="offset" />
               <Array as="points">
-                <mxPoint x="320" y="475" />
+                <mxPoint x="320" y="483" />
                 <mxPoint x="320" y="1195" />
               </Array>
             </mxGeometry>
