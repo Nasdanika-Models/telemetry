@@ -1,0 +1,509 @@
+<mxfile compressed="false" host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram id="4c4b2564-af88-457a-9ccc-9028988c36ca" name="Telemetry">
+    <mxGraphModel dx="4446" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="huE8onhBtCyo_2wU4MsM-4" edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="huE8onhBtCyo_2wU4MsM-3" value="changeDescription">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Span" link="references/eClassifiers/Span/index.html" id="b433ec2a-8396-450a-9032-0bfb33fc1266">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-90.00269805800053" y="460.00442114780435" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ResourceSpans" link="references/eClassifiers/ResourceSpans/index.html" id="6999fdaa-07b5-46b1-9a97-48bad20eb1f4">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-90.00061143351593" y="269.99637991278064" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ExponentialHistogramDataPointBuckets" link="references/eClassifiers/ExponentialHistogramDataPointBuckets/index.html" id="8cea46f3-79e9-49c0-8c6a-5c227ddec752">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="230" x="565" y="770" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SummaryDataPoint" link="references/eClassifiers/SummaryDataPoint/index.html" id="99c5f641-6fe5-4d00-a0a9-6de681f696ba">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="1380.6644724372068" y="649.9952054161618" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="AnyValue" link="references/eClassifiers/AnyValue/index.html" id="ececc06f-7653-44f3-b2cf-3aa284451d33">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="350.0027937668052" y="1180.0025273597842" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SpanEvent" link="references/eClassifiers/SpanEvent/index.html" id="caeecd7c-132b-466b-a721-c6180bf85da6">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="29.99330343002839" y="542.1570099754193" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="events" link="references/eClassifiers/Span/references/eStructuralFeatures/events/index.html" id="9f6b6d47-1437-4337-a4b1-b43b80285e56">
+          <mxCell edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="caeecd7c-132b-466b-a721-c6180bf85da6">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="LogsData" link="references/eClassifiers/LogsData/index.html" id="62cbf1b6-4903-4216-bf2f-19eb57e70e1d">
+          <mxCell parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+            <mxGeometry height="30" width="120" x="349.99006403006547" y="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Metric" link="references/eClassifiers/Metric/index.html" id="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="999.9988182412887" y="455.002986896337" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="TracesData" link="references/eClassifiers/TracesData/index.html" id="2c624995-d3b2-4d61-802a-061fac4e254f">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-89.9988281055721" y="169.99999999999994" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resourceSpans" link="references/eClassifiers/TracesData/references/eStructuralFeatures/resourceSpans/index.html" id="eefadde1-2022-4f62-ae6b-b6c7fc8c14dc">
+          <mxCell edge="1" parent="1" source="2c624995-d3b2-4d61-802a-061fac4e254f" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="6999fdaa-07b5-46b1-9a97-48bad20eb1f4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="MetricsData" link="references/eClassifiers/MetricsData/index.html" id="cf8fa747-4d51-43ab-a730-4c339bb89818">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="999.9977474138052" y="164.99586329825888" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SummaryDataPointValueAtQuantile" link="references/eClassifiers/SummaryDataPointValueAtQuantile/index.html" id="b8c1b7c7-ac20-41a6-bfc7-c55dc4d8c23b">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="201.32" x="1340" y="770" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="quantileValues" link="references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/quantileValues/index.html" id="1a59e1de-39b8-4669-a98c-848c07629370">
+          <mxCell edge="1" parent="1" source="99c5f641-6fe5-4d00-a0a9-6de681f696ba" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="b8c1b7c7-ac20-41a6-bfc7-c55dc4d8c23b">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ExponentialHistogram" link="references/eClassifiers/ExponentialHistogram/index.html" id="8babec4a-0118-4a6d-b315-c48cb1b4c752">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="619.9967223381415" y="559.9991395081986" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="73b6a42c-4d4a-49dc-b18a-703fc60ac9ab" edge="1" parent="1" source="8babec4a-0118-4a6d-b315-c48cb1b4c752" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="520" />
+              <mxPoint x="1060" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="InstrumentationScope" link="references/eClassifiers/InstrumentationScope/index.html" id="71d630cd-fa1d-43c7-9f84-edf2865837a3">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="120.0019295530401" y="367.9902472417102" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="HistogramDataPoint" link="references/eClassifiers/HistogramDataPoint/index.html" id="f816aeed-3cbe-470c-9756-39b65aeed3f1">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="840.0003029829969" y="649.991349015163" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ExponentialHistogramDataPoint" link="references/eClassifiers/ExponentialHistogramDataPoint/index.html" id="a73a61c6-76a0-4830-b1e8-41fa970c5d04">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="182.5" x="588.75" y="649.99" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="positive" link="references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/positive/index.html" id="a975c890-0127-493c-a50e-6b481988965d">
+          <mxCell edge="1" parent="1" source="a73a61c6-76a0-4830-b1e8-41fa970c5d04" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="8cea46f3-79e9-49c0-8c6a-5c227ddec752">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="negative" link="references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/negative/index.html" id="d4bdc25d-0948-4515-a58e-0b8a875a2049">
+          <mxCell edge="1" parent="1" source="a73a61c6-76a0-4830-b1e8-41fa970c5d04" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="8cea46f3-79e9-49c0-8c6a-5c227ddec752">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="dataPoints" link="references/eClassifiers/ExponentialHistogram/references/eStructuralFeatures/dataPoints/index.html" id="e4afb0ba-b175-469c-bb14-b47f3856849a">
+          <mxCell edge="1" parent="1" source="8babec4a-0118-4a6d-b315-c48cb1b4c752" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="a73a61c6-76a0-4830-b1e8-41fa970c5d04">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="NumberDataPoint" link="references/eClassifiers/NumberDataPoint/index.html" id="0c932869-9422-44cf-b772-f21f34b29b17">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="1100.0027082669671" y="649.995136426089" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ScopeSpans" link="references/eClassifiers/ScopeSpans/index.html" id="7004c41d-a15b-42ee-987e-5d3376a0205a">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-90.00364671110867" y="367.98870873022133" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scope" link="references/eClassifiers/ScopeSpans/references/eStructuralFeatures/scope/index.html" id="c68e4464-fead-446f-b054-605db390e3d5">
+          <mxCell edge="1" parent="1" source="7004c41d-a15b-42ee-987e-5d3376a0205a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="71d630cd-fa1d-43c7-9f84-edf2865837a3">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="spans" link="references/eClassifiers/ScopeSpans/references/eStructuralFeatures/spans/index.html" id="a5bb4481-109a-4369-912a-f33c363b8a8c">
+          <mxCell edge="1" parent="1" source="7004c41d-a15b-42ee-987e-5d3376a0205a" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="b433ec2a-8396-450a-9032-0bfb33fc1266">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scopeSpans" link="references/eClassifiers/ResourceSpans/references/eStructuralFeatures/scopeSpans/index.html" id="9eaf7733-2ed8-4274-8ea1-2f258bb31d56">
+          <mxCell edge="1" parent="1" source="6999fdaa-07b5-46b1-9a97-48bad20eb1f4" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="7004c41d-a15b-42ee-987e-5d3376a0205a">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Exemplar" link="references/eClassifiers/Exemplar/index.html" id="43a099d6-e03f-482f-8945-8d14c78a45dd">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="909.9976492954138" y="770.0009529626814" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="exemplars" link="references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/exemplars/index.html" id="daf51a60-d6a8-4216-9913-21d90bdbc938">
+          <mxCell edge="1" parent="1" source="0c932869-9422-44cf-b772-f21f34b29b17" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="43a099d6-e03f-482f-8945-8d14c78a45dd">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="exemplars" link="references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/exemplars/index.html" id="f21fc11c-3267-420f-9d62-e6821f0db430">
+          <mxCell edge="1" parent="1" source="a73a61c6-76a0-4830-b1e8-41fa970c5d04" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="43a099d6-e03f-482f-8945-8d14c78a45dd">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="exemplars" link="references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/exemplars/index.html" id="4e2fdf2f-23a0-40c6-b2a7-8db954ba386b">
+          <mxCell edge="1" parent="1" source="f816aeed-3cbe-470c-9756-39b65aeed3f1" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="43a099d6-e03f-482f-8945-8d14c78a45dd">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ScopeMetrics" link="references/eClassifiers/ScopeMetrics/index.html" id="53af8c79-40db-4bc0-8b70-62a8b8ac0a80">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="1000.000340706094" y="365.00257010831103" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scope" link="references/eClassifiers/ScopeMetrics/references/eStructuralFeatures/scope/index.html" id="8f5ff546-da7e-456f-b0b8-2cef97635064">
+          <mxCell edge="1" parent="1" source="53af8c79-40db-4bc0-8b70-62a8b8ac0a80" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="71d630cd-fa1d-43c7-9f84-edf2865837a3">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="760" y="385" />
+                <mxPoint x="760" y="350" />
+                <mxPoint x="180" y="350" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="metrics" link="references/eClassifiers/ScopeMetrics/references/eStructuralFeatures/metrics/index.html" id="6df3049c-5b55-44f1-9a2d-2977baec8cbb">
+          <mxCell edge="1" parent="1" source="53af8c79-40db-4bc0-8b70-62a8b8ac0a80" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="AggregationTemporality" link="references/eClassifiers/AggregationTemporality/index.html" id="17549625-9667-41ab-ad26-6ebb2be789f5">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="130" x="-250" y="218.06999999999994" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Histogram" link="references/eClassifiers/Histogram/index.html" id="ad462ccc-5110-4019-8152-86725c29fafc">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="839.9972188127626" y="560" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="dataPoints" link="references/eClassifiers/Histogram/references/eStructuralFeatures/dataPoints/index.html" id="6a1921b1-c1e9-4252-9d30-340f2937058f">
+          <mxCell edge="1" parent="1" source="ad462ccc-5110-4019-8152-86725c29fafc" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="f816aeed-3cbe-470c-9756-39b65aeed3f1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="f6e5e10d-dbfb-4c25-8f5f-4b2f382a63ca" edge="1" parent="1" source="ad462ccc-5110-4019-8152-86725c29fafc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="520" />
+              <mxPoint x="1060" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="SpanLink" link="references/eClassifiers/SpanLink/index.html" id="387a7fd8-5fd4-407c-a393-516fd175e166">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-190.0032888204396" y="542.1584833459353" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="links" link="references/eClassifiers/Span/references/eStructuralFeatures/links/index.html" id="783659a3-4a5c-479e-a43c-df59f8fd7b52">
+          <mxCell edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="387a7fd8-5fd4-407c-a393-516fd175e166">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SpanStatus" link="references/eClassifiers/SpanStatus/index.html" id="00926036-82ae-4f4f-8316-fa9ba190eb39">
+          <mxCell parent="1" style="fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1">
+            <mxGeometry height="30" width="120" x="-250.00721632469924" y="395.0022805644224" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="status" link="references/eClassifiers/Span/references/eStructuralFeatures/status/index.html" id="1bc98de4-c3cd-4e4e-9e9c-1241bb507e6f">
+          <mxCell edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="00926036-82ae-4f4f-8316-fa9ba190eb39">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Sum" link="references/eClassifiers/Sum/index.html" id="8e4dc2c7-2dd4-48e8-b6cc-e854a762b3e3">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="999.999144854706" y="560.0037986835384" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="dataPoints" link="references/eClassifiers/Sum/references/eStructuralFeatures/dataPoints/index.html" id="9accb118-a65c-45b6-a47c-393b62d73297">
+          <mxCell edge="1" parent="1" source="8e4dc2c7-2dd4-48e8-b6cc-e854a762b3e3" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="0c932869-9422-44cf-b772-f21f34b29b17">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="3f3c086e-29a7-464c-9a4b-e3fd96956bb6" edge="1" parent="1" source="8e4dc2c7-2dd4-48e8-b6cc-e854a762b3e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="490" />
+              <mxPoint x="1060" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="KeyValue" link="references/eClassifiers/KeyValue/index.html" id="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="349.9954657387551" y="1049.995050212693" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="value" link="references/eClassifiers/KeyValue/references/eStructuralFeatures/value/index.html" id="426c42eb-a9d7-456c-9d7c-202bc7bb300c">
+          <mxCell edge="1" parent="1" source="1d070371-ffb9-481b-9f40-b21e8ecc446c" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ececc06f-7653-44f3-b2cf-3aa284451d33">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/SpanLink/references/eStructuralFeatures/attributes/index.html" id="2a34ffa2-de9d-4014-b196-a7b2d4775627">
+          <mxCell edge="1" parent="1" source="387a7fd8-5fd4-407c-a393-516fd175e166" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-130" y="700" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="filteredAttributes" link="references/eClassifiers/Exemplar/references/eStructuralFeatures/filteredAttributes/index.html" id="ab85f400-f317-450d-8e8e-a3ab25db0464">
+          <mxCell edge="1" parent="1" source="43a099d6-e03f-482f-8945-8d14c78a45dd" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/NumberDataPoint/references/eStructuralFeatures/attributes/index.html" id="764f4bb3-1767-4f59-86c7-a47186b89fa5">
+          <mxCell edge="1" parent="1" source="0c932869-9422-44cf-b772-f21f34b29b17" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1160" y="810" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/ExponentialHistogramDataPoint/references/eStructuralFeatures/attributes/index.html" id="03e4d8a0-ed75-40c1-b34a-7c7a6e382066">
+          <mxCell edge="1" parent="1" source="a73a61c6-76a0-4830-b1e8-41fa970c5d04" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="530" y="670" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/HistogramDataPoint/references/eStructuralFeatures/attributes/index.html" id="dc473462-1e7a-490f-8131-c43932c3ca43">
+          <mxCell edge="1" parent="1" source="f816aeed-3cbe-470c-9756-39b65aeed3f1" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="860" y="780" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/InstrumentationScope/references/eStructuralFeatures/attributes/index.html" id="25baa0f8-d0b5-4750-9ece-7198b5e109fd">
+          <mxCell edge="1" parent="1" source="71d630cd-fa1d-43c7-9f84-edf2865837a3" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="180" y="610" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="metadata" link="references/eClassifiers/Metric/references/eStructuralFeatures/metadata/index.html" id="05f85b99-ad70-472c-af7c-ee32ebfbf73e">
+          <mxCell edge="1" parent="1" source="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="510" y="470" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/SpanEvent/references/eStructuralFeatures/attributes/index.html" id="7dec93a9-9932-4f35-be3b-c53e196fccba">
+          <mxCell edge="1" parent="1" source="caeecd7c-132b-466b-a721-c6180bf85da6" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="kvlistValue" link="references/eClassifiers/AnyValue/references/eStructuralFeatures/kvlistValue/index.html" id="1f4bcef5-8f2e-4173-8878-a0c4a3548acd">
+          <mxCell edge="1" parent="1" source="ececc06f-7653-44f3-b2cf-3aa284451d33" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/SummaryDataPoint/references/eStructuralFeatures/attributes/index.html" id="eb16fa8d-f0a7-4c5e-8fc4-32f46fb96552">
+          <mxCell edge="1" parent="1" source="99c5f641-6fe5-4d00-a0a9-6de681f696ba" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="960" y="1050" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/Span/references/eStructuralFeatures/attributes/index.html" id="8f4b6e99-1fc1-48c6-80bc-7386cd27d8a7">
+          <mxCell edge="1" parent="1" source="b433ec2a-8396-450a-9032-0bfb33fc1266" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="-30" y="660" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="ResourceMetrics" link="references/eClassifiers/ResourceMetrics/index.html" id="30ea5891-c488-4e44-ad69-25d6f557b583">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="999.9971148541297" y="264.998134327893" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scopeMetrics" link="references/eClassifiers/ResourceMetrics/references/eStructuralFeatures/scopeMetrics/index.html" id="76af6ad0-cfd2-4c6a-95d1-ae8c80adb009">
+          <mxCell edge="1" parent="1" source="30ea5891-c488-4e44-ad69-25d6f557b583" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="53af8c79-40db-4bc0-8b70-62a8b8ac0a80">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resourceMetrics" link="references/eClassifiers/MetricsData/references/eStructuralFeatures/resourceMetrics/index.html" id="6079650b-5083-4bfb-b44d-a06a2a5e633a">
+          <mxCell edge="1" parent="1" source="cf8fa747-4d51-43ab-a730-4c339bb89818" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="30ea5891-c488-4e44-ad69-25d6f557b583">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="StatusCode" link="references/eClassifiers/StatusCode/index.html" id="f0704cd3-2e81-4b08-93d8-65e9fad9ab45">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-250" y="170" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Resource" link="references/eClassifiers/Resource/index.html" id="1caeb24f-2550-4e8a-8d01-6389f6e2d0d8">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="119.99921612148398" y="270.00062042629224" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/Resource/references/eStructuralFeatures/attributes/index.html" id="5d40eb5b-1b33-4b6e-b480-c93a52bb06ae">
+          <mxCell edge="1" parent="1" source="1caeb24f-2550-4e8a-8d01-6389f6e2d0d8" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1;edgeStyle=orthogonalEdgeStyle;" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="180" y="320" />
+                <mxPoint x="270" y="320" />
+                <mxPoint x="270" y="1065" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="resource" link="references/eClassifiers/ResourceMetrics/references/eStructuralFeatures/resource/index.html" id="bdeb57b8-f76d-4cc5-af3d-7184ecd6a9e4">
+          <mxCell edge="1" parent="1" source="30ea5891-c488-4e44-ad69-25d6f557b583" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;edgeStyle=orthogonalEdgeStyle;" target="1caeb24f-2550-4e8a-8d01-6389f6e2d0d8">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="760" y="285" />
+                <mxPoint x="760" y="250" />
+                <mxPoint x="180" y="250" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="resource" link="references/eClassifiers/ResourceSpans/references/eStructuralFeatures/resource/index.html" id="37c3224a-6266-490e-9407-89c86d06a002">
+          <mxCell edge="1" parent="1" source="6999fdaa-07b5-46b1-9a97-48bad20eb1f4" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="1caeb24f-2550-4e8a-8d01-6389f6e2d0d8">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ResourceLogs" link="references/eClassifiers/ResourceLogs/index.html" id="c156075a-23c1-46b3-a3d2-e5c7c2bc6fb1">
+          <mxCell parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+            <mxGeometry height="30" width="120" x="349.99723560752363" y="269.9915712976674" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resource" link="references/eClassifiers/ResourceLogs/references/eStructuralFeatures/resource/index.html" id="0388056e-62cd-45a7-907e-583031ad647a">
+          <mxCell edge="1" parent="1" source="c156075a-23c1-46b3-a3d2-e5c7c2bc6fb1" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="1caeb24f-2550-4e8a-8d01-6389f6e2d0d8">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="resourceLogs" link="references/eClassifiers/LogsData/references/eStructuralFeatures/resourceLogs/index.html" id="5de871f6-5427-492b-a6c3-4153d7454902">
+          <mxCell edge="1" parent="1" source="62cbf1b6-4903-4216-bf2f-19eb57e70e1d" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="c156075a-23c1-46b3-a3d2-e5c7c2bc6fb1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Summary" link="references/eClassifiers/Summary/index.html" id="08c40769-33e0-4238-b929-22d2204200d2">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="1380.6634310380446" y="560.0022655702614" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="dataPoints" link="references/eClassifiers/Summary/references/eStructuralFeatures/dataPoints/index.html" id="0ad34886-6d5a-4b6a-a087-62d706a48f65">
+          <mxCell edge="1" parent="1" source="08c40769-33e0-4238-b929-22d2204200d2" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="99c5f641-6fe5-4d00-a0a9-6de681f696ba">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="5c943274-512f-4037-a9ed-6117db17f047" edge="1" parent="1" source="08c40769-33e0-4238-b929-22d2204200d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1441" y="520" />
+              <mxPoint x="1060" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="SeverityNumber" link="references/eClassifiers/SeverityNumber/index.html" id="545d9ed0-33dd-4268-b5f7-0c5299087206">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-250" y="267.51" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="LogRecord" link="references/eClassifiers/LogRecord/index.html" id="2fde2101-7fe8-42f1-bcfd-21aa95ca1711">
+          <mxCell parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+            <mxGeometry height="30" width="120" x="349.99677906969737" y="460.0013376010065" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="body" link="references/eClassifiers/LogRecord/references/eStructuralFeatures/body/index.html" id="3531308e-ce2e-4f30-9e8c-5d9bea545471">
+          <mxCell edge="1" parent="1" source="2fde2101-7fe8-42f1-bcfd-21aa95ca1711" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ececc06f-7653-44f3-b2cf-3aa284451d33">
+            <mxGeometry relative="1" x="-0.6795" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points">
+                <mxPoint x="320" y="475" />
+                <mxPoint x="320" y="1195" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="attributes" link="references/eClassifiers/LogRecord/references/eStructuralFeatures/attributes/index.html" id="410a2c36-ba65-45b8-a0a1-1b6598df001b">
+          <mxCell edge="1" parent="1" source="2fde2101-7fe8-42f1-bcfd-21aa95ca1711" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="1d070371-ffb9-481b-9f40-b21e8ecc446c">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="SpanKind" link="references/eClassifiers/SpanKind/index.html" id="108d4e87-2ba6-49e4-af87-24ac63884c54">
+          <mxCell parent="1" vertex="1">
+            <mxGeometry height="30" width="120" x="-250.00227893565727" y="310" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Gauge" link="references/eClassifiers/Gauge/index.html" id="aeca826e-0d22-460a-96a0-1dbf81231868">
+          <mxCell parent="1" style="fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1">
+            <mxGeometry height="30" width="120" x="1189.9967704700275" y="560.004631967427" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="dataPoints" link="references/eClassifiers/Gauge/references/eStructuralFeatures/dataPoints/index.html" id="3dbfb039-c511-4bd3-ab9d-f10aab0b77e3">
+          <mxCell edge="1" parent="1" source="aeca826e-0d22-460a-96a0-1dbf81231868" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="0c932869-9422-44cf-b772-f21f34b29b17">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="87bde596-c479-4d4b-9b8e-12d7b08e0861" edge="1" parent="1" source="aeca826e-0d22-460a-96a0-1dbf81231868" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0" target="01a3ed8b-c5a0-4153-af32-a56a8ebeb7e6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="520" />
+              <mxPoint x="1060" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="ScopeLogs" link="references/eClassifiers/ScopeLogs/index.html" id="262aea5e-a404-40f8-9f4a-5a16042eddd4">
+          <mxCell parent="1" style="fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
+            <mxGeometry height="30" width="120" x="349.9930228337291" y="367.9890923564676" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="logRecords" link="references/eClassifiers/ScopeLogs/references/eStructuralFeatures/logRecords/index.html" id="1e95975e-701e-4aee-9536-18750f5434f8">
+          <mxCell edge="1" parent="1" source="262aea5e-a404-40f8-9f4a-5a16042eddd4" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="2fde2101-7fe8-42f1-bcfd-21aa95ca1711">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scope" link="references/eClassifiers/ScopeLogs/references/eStructuralFeatures/scope/index.html" id="e7639162-75b8-4797-b4be-f78275b1a8d5">
+          <mxCell edge="1" parent="1" source="262aea5e-a404-40f8-9f4a-5a16042eddd4" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1" target="71d630cd-fa1d-43c7-9f84-edf2865837a3">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="scopeLogs" link="references/eClassifiers/ResourceLogs/references/eStructuralFeatures/scopeLogs/index.html" id="cf280a9b-c615-4c33-a4ed-4bb0f6fa339f">
+          <mxCell edge="1" parent="1" source="c156075a-23c1-46b3-a3d2-e5c7c2bc6fb1" style="rounded=0;orthogonalLoop=1;jettySize=1;html=1;startArrow=diamondThin;startFill=1" target="262aea5e-a404-40f8-9f4a-5a16042eddd4">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ChangeDescription" link="https://change.models.nasdanika.org/references/eClassifiers/ChangeDescription/index.html" id="huE8onhBtCyo_2wU4MsM-3">
+          <mxCell parent="1" style="fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1">
+            <mxGeometry height="30" width="120" x="-400" y="460" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
