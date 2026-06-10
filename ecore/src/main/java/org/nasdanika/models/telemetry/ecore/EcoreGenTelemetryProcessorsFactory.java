@@ -203,5 +203,4 @@ public class EcoreGenTelemetryProcessorsFactory {
 		return new EDataTypeNodeProcessor<EDataType>(config, context, prototypeProvider);		
 	}	
 	
-
 }
