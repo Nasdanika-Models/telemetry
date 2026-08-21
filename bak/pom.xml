@@ -3,17 +3,15 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.nasdanika.models.telemetry</groupId>
 	<artifactId>parent</artifactId>
-	<version>2026.8.0</version>
+	<version>2026.6.0</version>
 	<packaging>pom</packaging>
-	<name>Nasdanika Telemetry Model</name>
-	<description>Telemetry model, resource and resource factory</description>
+	<name>Telemetry model</name>
+	<description>Telemetry model documentation</description>
 	<url>https://telemetry.models.nasdanika.org/</url>
 
 	<licenses>
 		<license>
-			<name>Eclipse Public License 2.0</name>
-			<url>https://nasdanika.org/builds/master/eclipse-public-license-2.0.html</url>
-			<distribution>repo</distribution>
+			<name>Eclipse Public License 1.0</name>
 		</license>
 	</licenses>
 
@@ -32,26 +30,26 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-enforcer-plugin</artifactId>
-				<version>3.5.0</version>
-				<executions>
-					<execution>
-						<id>enforce-maven</id>
-						<goals>
-							<goal>enforce</goal>
-						</goals>
-						<configuration>
-							<rules>
-								<requireMavenVersion>
-									<version>3.9.16</version>
-								</requireMavenVersion>
-							</rules>
-						</configuration>
-					</execution>
-				</executions>
-			</plugin>
+<plugin>
+<groupId>org.apache.maven.plugins</groupId>
+<artifactId>maven-enforcer-plugin</artifactId>
+<version>3.5.0</version>
+<executions>
+<execution>
+<id>enforce-maven</id>
+<goals>
+<goal>enforce</goal>
+</goals>
+<configuration>
+<rules>
+<requireMavenVersion>
+<version>3.9.16</version>
+</requireMavenVersion>
+</rules>
+</configuration>
+</execution>
+</executions>
+</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -185,42 +183,8 @@
 	</dependencies>
 
 	<modules>
-		<module>model</module>
+		<module>ecore</module>
 	</modules>
-
-	 <profiles>
-		<profile>
-			<id>central</id>
-			<build>
-				<plugins>
-					<plugin>
-						<groupId>org.apache.maven.plugins</groupId>
-						<artifactId>maven-gpg-plugin</artifactId>
-						<version>3.2.8</version>
-						<executions>
-							<execution>
-								<id>sign-artifacts</id>
-								<phase>verify</phase>
-								<goals>
-									<goal>sign</goal>
-								</goals>
-							</execution>
-						</executions>
-					</plugin>	
-					<plugin>					
-						<groupId>org.sonatype.central</groupId>
-						<artifactId>central-publishing-maven-plugin</artifactId>
-						<version>0.9.0</version>
-						<extensions>true</extensions>
-						<configuration>
-							<publishingServerId>central</publishingServerId>
-							<autoPublish>true</autoPublish>
-						</configuration>
-					</plugin>
-				</plugins>
-			</build>
-		</profile>
-	</profiles>
 </project>
 
 
