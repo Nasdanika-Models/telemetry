@@ -5,7 +5,7 @@ import org.eclipse.emf.ecore.EObject;
 
 public enum Icon {
 	
-    DOCUMENT(TelemetryPackage.Literals.DOCUMENT, "telemetry.svg");
+    SPAN(TelemetryPackage.Literals.SPAN, "span.svg");
 
     private static final String BASE_URL = "https://telemetry.models.nasdanika.org/images/";
 
